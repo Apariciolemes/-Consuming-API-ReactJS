@@ -2,6 +2,7 @@
 Desafio bootcamp RockeatSeat
 
 Funcionalidades da aplicação
+
 Agora que você já está com o template clonado, e pronto para continuar, você deve abrir o arquivo src/App.js, e completar onde não possui código com o código para atingir os objetivos de cada funcionalidade.
 
 Listar os repositórios da sua API: Deve ser capaz de criar uma lista com o campo title de todos os repositórios que estão cadastrados na sua API.
