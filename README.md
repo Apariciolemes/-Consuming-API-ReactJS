@@ -2,10 +2,10 @@
 
 Desafio desenvolvido para o bootcamp Rockeatseat
 
-Funcionalidades da aplicação
+**Funcionalidades da aplicação**
 
-Listar os repositórios da API
+- Listar os repositórios da API
 
-Adicionar um repositório a sua API
+- Adicionar um repositório a sua API
 
-Remover um repositório da sua API
+- Remover um repositório da sua API
