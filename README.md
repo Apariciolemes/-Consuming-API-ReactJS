@@ -18,6 +18,6 @@ Desafio desenvolvido para o bootcamp Rockeatseat
 
 - Listar os repositórios da API
 
-- Adicionar um repositório a sua API
+- Adicionar um repositório na API
 
-- Remover um repositório da sua API
+- Remover um repositório da API
