@@ -1,4 +1,4 @@
-# consumindo API com ReactJS
+# Consumindo API com ReactJS
 
 Desafio desenvolvido para o bootcamp Rockeatseat
 
