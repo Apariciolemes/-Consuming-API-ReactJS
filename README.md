@@ -1,4 +1,4 @@
-# Consumindo API com ReactJS
+# API - ReactJS
 
 **Rodar o projeto**
 
